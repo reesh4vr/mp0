@@ -1,25 +1,25 @@
 /* Your CSS here. */
 .card {
     background-color: rgb(240, 215, 173);
-    width:300px;
+    width:500px;
     margin:100px auto;
-    padding:20px;
-    border-radius:12px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);
+    padding:40px;
+    border-radius:15px;
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.6);
     text-align:center;
 }
 
 .card img{
-    width:100px;
-    height:100px;
+    width:150px;
+    height:150px;
 }
 
 .card h1{
-    margin:10px;
+    margin:20px;
 }
 
 .card p{
-    font-size:14px;
+    font-size:15px;
 }
 
 /* css */
